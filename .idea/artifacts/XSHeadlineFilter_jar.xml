@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XSHeadlineFilter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XSHeadlineFilter_jar</output-path>
+    <root id="archive" name="XSHeadlineFilter.jar">
+      <element id="module-output" name="XSHeadlineFilter" />
+    </root>
+  </artifact>
+</component>
